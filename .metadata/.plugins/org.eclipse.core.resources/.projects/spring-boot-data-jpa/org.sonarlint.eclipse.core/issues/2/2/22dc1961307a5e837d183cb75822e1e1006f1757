@@ -1,0 +1,17 @@
+
+p
+java:S1128"=Remove this unused import 'javax.persistence.GenerationType'.(ı÷õ¡8óª‰è1HŠeRMINORZ
+CODE_SMELL
+h
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8óª‰è1HŒeRMINORZ
+CODE_SMELL
+z
+java:S1128"GRemove this unused import 'org.hibernate.annotations.GenericGenerator'.(ƒİŸÉ8èÍé1HeRMINORZ
+CODE_SMELL
+	java:S116."]Rename this field "transaction_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¿™8µáŞ½‡1HeRMINORZ
+CODE_SMELL
+h
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8óª‰è1H‘eRMINORZ
+CODE_SMELL
+‹	java:S1164"[Rename this field "transaction_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ï™°úÿÿÿÿH“eRMINORZ
+CODE_SMELL

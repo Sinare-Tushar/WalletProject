@@ -1,0 +1,18 @@
+
+w
+java:S4684@"@Replace this persistent entity with a simple POJO or DTO object.(€ŞÑöûÿÿÿÿHÙIRCRITICALZVULNERABILITY
+r
+java:S4684K"@Replace this persistent entity with a simple POJO or DTO object.(„²Ø¶HÚIRCRITICALZVULNERABILITY
+	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÙÎıÿÿÿÿÿHÛIRMINORZ
+CODE_SMELL
+	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²æûşüÿÿÿÿHÜIRMINORZ
+CODE_SMELL
+º
+java:S4449F"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(¾ûô¾üÿÿÿÿHİIRMAJORZ
+CODE_SMELL
+º
+java:S44490"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(¾ûô¾üÿÿÿÿHßIRMAJORZ
+CODE_SMELL
+Š
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìÃóİûÿÿÿÿHáIRMINORZ
+CODE_SMELL

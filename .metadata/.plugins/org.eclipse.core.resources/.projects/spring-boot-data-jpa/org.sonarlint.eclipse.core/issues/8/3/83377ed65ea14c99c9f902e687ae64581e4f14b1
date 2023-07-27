@@ -1,0 +1,32 @@
+
+W
+java:S11686"+Return an empty collection instead of null.(¥¹ïHöIRMAJORZ
+CODE_SMELL
+W
+java:S1168*"+Return an empty collection instead of null.(¥¹ïHùIRMAJORZ
+CODE_SMELL
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÕ¼ğHüIRMINORZ
+CODE_SMELL
+b
+java:S1135/"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHıIRINFOZ
+CODE_SMELL
+b
+java:S1135;"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHşIRINFOZ
+CODE_SMELL
+b
+java:S1135G"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHÿIRINFOZ
+CODE_SMELL
+b
+java:S1135A"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH€JRINFOZ
+CODE_SMELL
+b
+java:S1135)"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHJRINFOZ
+CODE_SMELL
+b
+java:S11355"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH‚JRINFOZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÄíšùÿÿÿÿHƒJRMINORZ
+CODE_SMELL
+b
+java:S1135M"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH„JRINFOZ
+CODE_SMELL

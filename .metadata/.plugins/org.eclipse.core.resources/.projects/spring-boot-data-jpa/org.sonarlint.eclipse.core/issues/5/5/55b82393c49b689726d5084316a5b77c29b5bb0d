@@ -1,0 +1,12 @@
+
+Y
+java:S1128"(Remove this unused import 'lombok.Data'.(÷í«ÿÿÿÿÿHƒeRMINORZ
+CODE_SMELL
+a
+java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›H…eRMINORZ
+CODE_SMELL
+g
+java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿH‡eRMINORZ
+CODE_SMELL
+o
+java:S26377"K"username" is marked "@NonNull" but is not initialized in this constructor.(øş±,H‰eRMINORZBUG

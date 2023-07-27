@@ -1,0 +1,7 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(×ÍîÂúÿÿÿÿ8ì¬÷À1HòaRMAJORZ
+CODE_SMELL
+p
+java:S1128
+"8Remove this unused import 'com.twilio.type.PhoneNumber'.(ÒÃìÇúÿÿÿÿ8ì¬÷À1HóaRMINORZ
+CODE_SMELL

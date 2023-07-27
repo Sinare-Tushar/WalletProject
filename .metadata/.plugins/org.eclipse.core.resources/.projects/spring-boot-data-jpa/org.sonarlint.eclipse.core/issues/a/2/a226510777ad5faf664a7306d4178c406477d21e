@@ -1,0 +1,68 @@
+
+s	java:S125,"<This block of commented-out lines of code should be removed.(êú¸ıÿÿÿÿÿ8§Â°‰1H¾`RMAJORZ
+CODE_SMELL
+s	java:S125g"<This block of commented-out lines of code should be removed.(­Á‚Àøÿÿÿÿ8‰ƒõª‰1H·`RMAJORZ
+CODE_SMELL
+…
+java:S1192:"ODefine a constant instead of duplicating this literal "Data Not Found" 4 times.(ÊÀºÈ8ãÁ¤¨‰1H¬`RCRITICALZ
+CODE_SMELL
+s	java:S125_"<This block of commented-out lines of code should be removed.(š­†Ëûÿÿÿÿ8Ëğ¥Á1H†aRMAJORZ
+CODE_SMELL
+g
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8Ëğ¥Á1H‡aRMINORZ
+CODE_SMELL
+g
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8Ëğ¥Á1H‰aRMINORZ
+CODE_SMELL
+h
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8Ëğ¥Á1H‹aRMINORZ
+CODE_SMELL
+h
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8Ëğ¥Á1HaRMINORZ
+CODE_SMELL
+c
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ëğ¥Á1HaRMINORZ
+CODE_SMELL
+b
+java:S1128
+"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8Ëğ¥Á1H‘aRMINORZ
+CODE_SMELL
+t
+java:S1128"<Remove this unused import 'javax.mail.internet.MimeMessage'.(«ÀÔ€şÿÿÿÿ8Ëğ¥Á1H“aRMINORZ
+CODE_SMELL
+}
+java:S1128"KRemove this unused import 'org.springframework.core.io.FileSystemResource'.(°ü‘48Ëğ¥Á1H•aRMINORZ
+CODE_SMELL
+{
+java:S1128"HRemove this unused import 'org.springframework.http.ContentDisposition'.(ş§ôî8Ëğ¥Á1H—aRMINORZ
+CODE_SMELL
+y
+java:S1128"ARemove this unused import 'org.springframework.http.HttpHeaders'.(ãŸñ×úÿÿÿÿ8Ëğ¥Á1H™aRMINORZ
+CODE_SMELL
+w
+java:S1128"?Remove this unused import 'org.springframework.http.MediaType'.(úŸİ¯şÿÿÿÿ8Ëğ¥Á1H›aRMINORZ
+CODE_SMELL
+€
+java:S1128"MRemove this unused import 'org.springframework.mail.javamail.JavaMailSender'.(ÕÃ›8Ëğ¥Á1HaRMINORZ
+CODE_SMELL
+ˆ
+java:S1128"PRemove this unused import 'org.springframework.mail.javamail.MimeMessageHelper'.(Ö€”÷øÿÿÿÿ8Ëğ¥Á1HŸaRMINORZ
+CODE_SMELL
+†
+java:S1128"NRemove this unused import 'com.example.spring.datajpa.service.util.CreatePdf'.(°áÊÂûÿÿÿÿ8Ëğ¥Á1H¡aRMINORZ
+CODE_SMELL
+‹
+java:S1128"SRemove this unused import 'com.example.spring.datajpa.service.util.CreatePdfTable'.(ë÷±Ëşÿÿÿÿ8Ëğ¥Á1H£aRMINORZ
+CODE_SMELL
+†
+java:S1128 "NRemove this unused import 'com.example.spring.datajpa.service.util.EmailUtil'.(Ò¾Ş‚şÿÿÿÿ8Ëğ¥Á1H¥aRMINORZ
+CODE_SMELL
+j
+java:S1128""7Remove this unused import 'com.itextpdf.text.Document'.(ú¾ÍŒ8Ëğ¥Á1H§aRMINORZ
+CODE_SMELL
+p
+java:S1128#"8Remove this unused import 'com.itextpdf.text.Paragraph'.(ï”¬­üÿÿÿÿ8Ëğ¥Á1H©aRMINORZ
+CODE_SMELL
+t
+java:S1128$"<Remove this unused import 'com.itextpdf.text.pdf.PdfWriter'.(µˆ£ÿÿÿÿÿ8Ëğ¥Á1H«aRMINORZ
+CODE_SMELL

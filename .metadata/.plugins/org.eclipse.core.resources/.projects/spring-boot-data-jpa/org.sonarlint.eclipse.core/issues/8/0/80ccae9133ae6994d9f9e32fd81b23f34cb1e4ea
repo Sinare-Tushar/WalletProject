@@ -1,0 +1,16 @@
+
+y
+java:S1075&"ARefactor your code to get this URI from a customizable parameter.(”™ä³ýÿÿÿÿ8¶ÃâŸŒ1Hž`RMINORZ
+CODE_SMELL
+p
+java:S1854c"8Remove this useless assignment to local variable "flag".(Õ¿‡ëÿÿÿÿÿ8²·©Ë‰1HŸ`RMAJORZ
+CODE_SMELL
+a
+java:S1481c")Remove this unused "flag" local variable.(Õ¿‡ëÿÿÿÿÿ8²·©Ë‰1H `RMINORZ
+CODE_SMELL
+g
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8éÖ…ÆŒ1H¢`RMINORZ
+CODE_SMELL
+l
+java:S1128":Remove this unused import 'java.io.ByteArrayOutputStream'.(Î‡È8éÖ…ÆŒ1H¤`RMINORZ
+CODE_SMELL

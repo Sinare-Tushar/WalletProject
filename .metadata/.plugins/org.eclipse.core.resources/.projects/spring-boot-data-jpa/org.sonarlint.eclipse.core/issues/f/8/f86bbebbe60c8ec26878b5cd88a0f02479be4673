@@ -1,0 +1,7 @@
+
+p
+java:S1854*"8Remove this useless assignment to local variable "flag".(Õ¿‡ëÿÿÿÿÿ8‚øÑ°‰1HÇ[RMAJORZ
+CODE_SMELL
+a
+java:S1481*")Remove this unused "flag" local variable.(Õ¿‡ëÿÿÿÿÿ8‚øÑ°‰1HÈ[RMINORZ
+CODE_SMELL
